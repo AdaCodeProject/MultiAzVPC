@@ -8,3 +8,4 @@ sshfolder/
 *.log
 *.tfvars
 sshfolder.pub
+.terraform.lock.hcl
